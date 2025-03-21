@@ -21,3 +21,4 @@ flags               -1.0000
 
 - displayed a min, max table to check feature range, normalization IS NEEDED check table to see which ones
 - created a heatmap to visualize feature correlation, may need to reduce some more features or perform feature extraction to reduce redudancy
+- made a new df with only 16 features to reduce dimensionality. Trying to reduce more.
