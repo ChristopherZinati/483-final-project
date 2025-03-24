@@ -66,3 +66,6 @@ service 0.0786
 - PC2 captures flow-duration metrics
 - most important feature is flowEnd with absolute loading of 0.7953, followed by srv_count and count both with an absolute loading of 0.3790
 - all other features here have absolute loadings < 0.0845
+
+- pulled 33,000 normal instances and 33,000 anomaly instances to put into a new dataset
+- enabled a block to save the new and processed data with 66,000 instances, 15 features, and 1 label that is binary. Ready for modeling
