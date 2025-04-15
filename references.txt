@@ -1,3 +1,5 @@
+Hung-Jen Liao, Chun-Hung Richard Lin, Ying-Chih Lin, Kuang-Yuan Tung, Intrusion detection system: A comprehensive review,Journal of Network and Computer Applications, Volume 36, Issue 1, 2013, Pages 16-24, ISSN 1084-8045, https://doi.org/10.1016/j.jnca.2012.09.004.
+
 Disha, R.A., Waheed, S. Performance analysis of machine learning models for intrusion detection system using Gini Impurity-based Weighted Random Forest (GIWRF) feature selection technique. Cybersecurity 5, 1 (2022). https://doi.org/10.1186/s42400-021-00103-8
 
 Abdelaziz, M.T., Radwan, A., Mamdouh, H. et al. Enhancing Network Threat Detection with Random Forest-Based NIDS and Permutation Feature Importance. J Netw Syst Manage 33, 2 (2025). https://doi.org/10.1007/s10922-024-09874-0
