@@ -1,0 +1,13 @@
+Disha, R.A., Waheed, S. Performance analysis of machine learning models for intrusion detection system using Gini Impurity-based Weighted Random Forest (GIWRF) feature selection technique. Cybersecurity 5, 1 (2022). https://doi.org/10.1186/s42400-021-00103-8
+
+Abdelaziz, M.T., Radwan, A., Mamdouh, H. et al. Enhancing Network Threat Detection with Random Forest-Based NIDS and Permutation Feature Importance. J Netw Syst Manage 33, 2 (2025). https://doi.org/10.1007/s10922-024-09874-0
+
+Kaushik, S., Bhardwaj, A., Almogren, A. et al. Robust machine learning based Intrusion detection system using simple statistical techniques in feature selection. Sci Rep 15, 3970 (2025). https://doi.org/10.1038/s41598-025-88286-9
+
+Ali, M. L., Thakur, K., Schmeelk, S., Debello, J., & Dragos, D. (2025). Deep Learning vs. Machine Learning for Intrusion Detection in Computer Networks: A Comparative Study. Applied Sciences, 15(4), 1903. https://doi.org/10.3390/app15041903
+
+Saleh, H. M., Marouane, H., & Fakhfakh, A. (2024). Stochastic Gradient Descent Intrusions Detection for Wireless Sensor Network Attack Detection System Using Machine Learning. IEEE Access, 12, 3825–3836. https://doi.org/10.1109/ACCESS.2023.3349248
+
+Disha, R.A., Waheed, S. Performance analysis of machine learning models for intrusion detection system using Gini Impurity-based Weighted Random Forest (GIWRF) feature selection technique. Cybersecurity 5, 1 (2022). https://doi.org/10.1186/s42400-021-00103-8
+
+Zoppi, Tommaso & Ceccarelli, Andrea & Puccetti, Tommaso & Bondavalli, Andrea. (2023). Which Algorithm can Detect Unknown Attacks? Comparison of Supervised, Unsupervised and Meta-Learning Algorithms for Intrusion Detection. Computers & Security. 127. 103107. 10.1016/j.cose.2023.103107. 
